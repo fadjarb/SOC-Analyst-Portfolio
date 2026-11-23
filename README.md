@@ -1,19 +1,19 @@
-Fadjar Trijadi Basuki
-Aspiring SOC Analyst based in Melbourne, Australia.
+# Fadjar Trijadi Basuki
+## Aspiring SOC Analyst based in Melbourne, Australia.
 
-Background:
+### Background:
 
-Application Support
-IT Consulting
-TAFE Cyber Security Student
-Current Focus:
+#### Application Support
+#### IT Consulting
+#### TAFE Cyber Security Student
+### Current Focus:
 
-Microsoft Sentinel
-Defender XDR
-Incident Response
-Threat Hunting
-KQL
-Skills:
+#### Microsoft Sentinel
+#### Defender XDR
+#### Incident Response
+#### Threat Hunting
+#### KQL
+### Skills:
 
 Security Monitoring
 Log Analysis
