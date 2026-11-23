@@ -3,9 +3,9 @@
 
 ### Background:
 
-#### Application Support
-#### IT Consulting
-#### TAFE Cyber Security Student
+ Application Support
+ IT Consulting
+ TAFE Cyber Security Student
 ### Current Focus:
 
 #### Microsoft Sentinel
